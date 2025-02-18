@@ -2,6 +2,8 @@
 
 HF2Reasoning is a lightweight tool that converts any Hugging Face dataset into a reasoning dataset. By leveraging Large Language Models (LLMs), it generates detailed reasoning chains and solutions for problem statements. The final output is saved as an Excel file, and you can also upload the dataset to the Hugging Face Hub. This repo also incorporates the **BARE** technique for enhanced synthetic data generation.
 
+![Dataset-BARE](https://github.com/user-attachments/assets/6ddef257-da7e-4534-a765-2e4a88c07f9c)
+
 ## Installation
 
 ### Prerequisites
