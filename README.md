@@ -105,9 +105,6 @@ python generate.py \
 
 ## License
 
-This project is open source and available under the MIT License.  
-[MIT License](LICENSE)
-
 > Note: The BARE component included in the `bare/` directory is licensed under Apache 2.0.
 
 ## Owner
